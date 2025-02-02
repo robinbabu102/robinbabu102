@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Robin Babu! 👋</h1>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmp1bjZ4emM0N2N3Y2UwYmR6OXQ5YTVsMDNscXdwdmd6b3E1dnJnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" height=250px width=500px>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWN0OWZ4dmxrNjQ0ajNiMTZ4a2YydHg2N2diZ2w0dnA2N281NmF1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PmAjqmm4beKervYzFr/giphy.gif" height=300px width=600px>
 </p>
 
 ## 🚀 About Me
@@ -61,9 +61,9 @@ I'm passionate about building scalable and efficient web applications. My expert
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=robinbabu102&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robinbabu102&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinbabu102&layout=compact&theme=tokyonight" />
 </p>
 
 ---
