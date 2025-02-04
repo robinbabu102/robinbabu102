@@ -11,6 +11,11 @@ I'm passionate about building scalable and efficient web applications. My expert
 
 ---
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robinbabu100" alt="robinbabu100" /></a> </p>
+
+---
+
 ## 🔥 Tech Stack & Tools
 
 <p align="left">
