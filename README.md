@@ -55,7 +55,7 @@ I'm passionate about building scalable and efficient web applications. My expert
 
 ### 🏠 Orphanage Management System
 🔹 Designed a **web-based application** for managing orphanage operations  
-🔹 Built with **Spring Boot, HTML, CSS, Bootstrap, SQL, JWT Authentication**
+🔹 Built with **Spring Boot, HTML, CSS, Bootstrap, SQL**
 
 ---
 
