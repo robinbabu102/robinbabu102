@@ -76,13 +76,14 @@ I'm passionate about building scalable and efficient web applications. My expert
 </p>
 
 ---
-
+<!--
  ## 📌 A Quote That Inspires Me
 <p >  "The only way to do great work is to love what you do." - Steve Jobs</p>
 <p> I truly enjoy solving problems, writing clean code, and building scalable applications!
 </p>
 
 ---
+-->
 
 ## 🎮 Fun Fact
 ⚡ I once fixed a bug, but in the process, I accidentally created three new ones!
